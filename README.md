@@ -10,10 +10,6 @@ Tool for discover subdomains in Certificate Transparency logs using Google's Tra
 ```bash
 go get github.com/lord3ver/gctsubdomains
 ```
-Or:
-```bash
-go install github.com github.com/lord3ver/gctsubdomains
-...
 
 ### Usage
 
